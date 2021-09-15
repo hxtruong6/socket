@@ -27,6 +27,8 @@ class MyServer(asyncio.Protocol):
         self.key = get_key(self.address)
 
         print(f"\nNew comming client: {self.address}")
+
+        
         # manage all client
         client_manager[self.key] = transport
 

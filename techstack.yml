@@ -1,7 +1,8 @@
 repo_name: hxtruong6/socket
 report_id: 552a1664d34266254deb337e30202aad
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-14T05:13:19+00:00'
+timestamp: '2024-01-05T08:45:07+00:00'
 requested_by: hxtruong6
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/hxtruong6/socket
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/hxtruong6/socket
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -34,6 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/hxtruong6/socket/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: hxtruong6
   last_updated_on: 2021-08-03 06:16:43.000000000 Z
@@ -47,7 +51,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Machine Learning Tools
   image_url: https://img.stackshare.io/service/9899/xgboost400.png
-  detection_source_url: requirements.txt
+  detection_source_url: https://github.com/hxtruong6/socket/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: hxtruong6
   last_updated_on: 2021-08-03 06:16:43.000000000 Z
@@ -58,13 +62,13 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4220/LNPwoiWi_400x400.jpg
-  detection_source_url: requirements.txt
+  detection_source_url: https://github.com/hxtruong6/socket/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: hxtruong6
   last_updated_on: 2021-08-03 06:16:43.000000000 Z
 - name: yarl
   description: Yet another URL library
-  package_url: https://pypi.org/yarl
+  package_url: https://pypi.org/project/yarl
   version: 1.6.3
   license: Apache-2.0
   open_source: true
@@ -72,7 +76,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20083/default_d8789f2f1b5b4e9994bef68371453a20460b4d6e.png
-  detection_source_url: requirements.txt
+  detection_source_url: https://github.com/hxtruong6/socket/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: hxtruong6
   last_updated_on: 2021-08-03 06:16:43.000000000 Z
